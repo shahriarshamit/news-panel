@@ -1,0 +1,89 @@
+CRITICAL - 2022-10-31 17:14:33 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 17:15:36 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 17:15:46 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 17:16:10 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 17:33:12 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 17:33:13 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 17:33:20 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 17:33:32 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 17:35:52 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 17:36:05 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 17:36:05 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 19:40:03 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 19:45:37 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 19:52:05 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 19:55:14 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 224.
+ 1 SYSTEMPATH\CodeIgniter.php(224): CodeIgniter\Exceptions\FrameworkException::forMissingExtension()
+ 2 SYSTEMPATH\CodeIgniter.php(182): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(55): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-10-31 15:56:04 --> Class "App\Controllers\DateTime" not found
+in APPPATH\Controllers\Pages.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Pages->view()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-10-31 15:56:36 --> Class "App\Controllers\DateTime" not found
+in APPPATH\Controllers\Pages.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Pages->view()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
