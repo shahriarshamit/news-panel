@@ -6,10 +6,10 @@
 <form action="/news/create" method="post">
     <?= csrf_field() ?>
 
-    <label for="title">Title</label>
+    <label for="title">Title</label><br />
     <input type="input" name="title" /><br />
 
-    <label for="body">Text</label>
+    <label for="body">Text</label><br />
     <textarea name="body" cols="45" rows="4"></textarea><br />
 
     <input type="submit" name="submit" value="Create news item" />
