@@ -36,4 +36,27 @@ class News extends BaseController {
                 . view('templates/footer', $data);
     }
 
+    public function create() {
+        $dateYear = new \DateTime();
+        $model = model(NewsModel::class);
+        if ($this->request->getMethod() === 'post' && $this->validate([
+                    'title' => 'required|min_length[3]|max_length[255]',
+                    'body' => 'required',
+                ])) {
+            $model->save([
+                'title' => $this->request->getPost('title'),
+                'slug' => url_title($this->request->getPost('title'), '-', true),
+                'body' => $this->request->getPost('body'),
+            ]);
+            return view('news/success');
+        }
+        $data = [
+            'title' => 'Create a news item',
+            'year' => $dateYear->format('Y')
+        ];
+        return view('templates/header', $data)
+                . view('news/create')
+                . view('templates/footer', $data);
+    }
+
 }
